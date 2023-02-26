@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I am Dev Gurung. 👋
+
+- 🌱 I’m currently learning Data Science at Codeup.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/devgurung141/) or [dev.gurung141@gmail.com] (mailto:dev.gurung141@gmail.com)
+
+
+
+
 
 <!--
 **devgurung141/devgurung141** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
