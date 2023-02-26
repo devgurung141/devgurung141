@@ -1,7 +1,7 @@
 ### Hi there, I am Dev Gurung. 👋
 
 - 🌱 I’m currently learning Data Science at Codeup.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/devgurung141/) or [dev.gurung141@gmail.com] 
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/devgurung141/) or dev.gurung141@gmail.com 
 
 
 
